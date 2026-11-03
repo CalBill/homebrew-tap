@@ -1,8 +1,8 @@
 # Ad-hoc signed and not notarized. Install with:
 #   brew install --cask --no-quarantine ryanstarfox/tap/macpower
 cask "macpower" do
-  version "2.0.2"
-  sha256 "9a035229eb41fc4d01d1e75fcba63bd8fdfcf80e9bd169d7ad1b449f1935baa1"
+  version "2.0.5"
+  sha256 "e3ede9a17fe3e02636dc56eaf3cdd6044bab2dc492cc98b25f3decbe2c5093cf"
 
   url "https://github.com/RyanStarFox/MacPower/releases/download/v#{version}/MacPower-#{version}.dmg"
   name "MacPower"
